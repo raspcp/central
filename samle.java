@@ -1,6 +1,6 @@
 public class MyClass {
 public static void main(String args[]) {
-int x=11;
+int x=145;
 int y=25;
 int z=x+y;
 
